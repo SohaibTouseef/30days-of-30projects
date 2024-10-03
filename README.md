@@ -1,10 +1,8 @@
 🚀 30 Days of 30 Projects
 Build 30 exciting projects in 30 days using latest tech-stack! 💻✨
-
 ➡️ Keep an eye on the Challenge Channel on Discord daily 👀
 ➡️ Check out the live preview of the Challenge Projects here✨
 ➡️ Read the project-wise detailed medium articles here 📚
-
 🎯 Challenge Overview
 🛠️ Tech Stack: TypeScript, TailwindCSS, Next.js, and more!
 📚 Daily Guide: Step-by-step instructions for each project
